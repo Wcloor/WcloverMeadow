@@ -1,0 +1,24 @@
+{
+    "name": "com.wcloor.wclovermeadow",
+    "version": "0.0.1",
+    "description": "自建库",
+    "displayName": "wcloverMeadow",
+    "unity": "2020.4",
+    "author": {
+        "name": "Wcloor",
+        "email": "l367378159@163.com",
+        "url": "https://github.com/wcloor/wclovermeadow"
+    },
+    "changelogUrl": "",
+    "dependencies": {
+    },
+    "documentationUrl": "",
+    "hideInEditor": false,
+    "keywords": [
+        "jackframe"
+    ],
+    "license": "",
+    "licensesUrl": "",
+    "samples": [],
+    "unityRelease": "16f1"
+}
